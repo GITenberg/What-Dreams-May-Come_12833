@@ -1,0 +1,30 @@
+_repo: What-Dreams-May-Come_12833
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Atherton, Gertrude Franklin Horn
+    aliases:
+    - Lin, Frank
+    - Horn, Gertrude Franklin
+    birthdate: 1857
+    deathdate: 1948
+    gutenberg_agent_id: '263'
+    url: http://www.gutenberg.org/2009/agents/263
+    wikipedia: http://en.wikipedia.org/wiki/Gertrude_Atherton
+description: A young betrothed couple is afflicted with nightmares and flashbacks
+  of their former lives as lovers about four generations past.
+gutenberg_issued: '2004-07-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12833'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Nightmares -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: What Dreams May Come
+url: http://www.gutenberg.org/ebooks/12833
