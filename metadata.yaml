@@ -1,5 +1,8 @@
 _repo: What-Dreams-May-Come_12833
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Atherton, Gertrude Franklin Horn
@@ -13,6 +16,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Gertrude_Atherton
 description: A young betrothed couple is afflicted with nightmares and flashbacks
   of their former lives as lovers about four generations past.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12833#What-Dreams-May-Come
 gutenberg_issued: '2004-07-06'
 gutenberg_type: Text
 identifiers:
